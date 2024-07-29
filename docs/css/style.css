@@ -2,7 +2,14 @@ body {
     background-color: #F8F8F8;
 }
 
-.top-bg-image {}
+.top-bg-image {
+    background-image: url('../images/grid.png');
+    background-size: contain;
+    background-repeat: repeat;
+    width: 100%;
+    height: 500px;
+    z-index: 0;
+}
 
 .bg-color {
     background-color: #F8F8F8;
