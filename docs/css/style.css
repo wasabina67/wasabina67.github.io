@@ -3,7 +3,7 @@ body {
 }
 
 .top-bg-image {
-    background-image: url('../images/grid.png');
+    background-image: url('https://wasabina67.github.io/images/grid.png');
     background-size: contain;
     background-repeat: repeat;
     position: absolute;
